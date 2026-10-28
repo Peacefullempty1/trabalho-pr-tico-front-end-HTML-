@@ -1,0 +1,7 @@
+﻿# atividade_JV.S
+
+# Exemplos de codigos Java Script com o Prfessor Bruno
+
+Davi Gabriel dos Santos
+
+# TIIN2026/1N2
