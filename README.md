@@ -2,6 +2,6 @@
 
 # Exemplos de codigos Java Script com o Prfessor Bruno
 
-Davi Gabriel dos Santos
+Rafael Tomasi 
 
 # TIIN2026/1N2
